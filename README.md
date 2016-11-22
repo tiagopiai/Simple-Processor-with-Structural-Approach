@@ -1,6 +1,6 @@
 # Simple Processor
 
-This is a Simple Processor with Structural Approach designed in VHDL.
+This is a Simple Processor with Structural Approach designed in VHDL. This code was implemented in Xilinx software.
 ![alt text](Structure.PNG "Simple Processor Structure")
 
 Used components:
